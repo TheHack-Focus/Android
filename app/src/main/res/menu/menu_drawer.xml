@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_group_black_24dp"
+        android:title="关于我" />
+
+    <item
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="附近" />
+
+    <item
+        android:icon="@drawable/ic_favorite_mikan_24dp"
+        android:title="收藏" />
+
+    <item
+        android:icon="@drawable/ic_delete_black_24dp"
+        android:title="垃圾桶" />
+
+    <item
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="设置" />
+
+    <item
+        android:icon="@drawable/ic_flag_black_24dp"
+        android:title="关于" />
+
+</menu>
